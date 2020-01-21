@@ -108,8 +108,8 @@ __meditacionpsicoterapeutica.com (in Spanish)__
 - Podcast and articles about psychotherapy, neuroscience, mindfulness, and psychology
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: January 2020 -->
+Last updated: January 2020
 
 
