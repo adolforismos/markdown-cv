@@ -24,20 +24,22 @@ Writing, Research, Audiences, Users, Media, Human Behavior, Psychology.
 
 Executive and Operative • Media and Audience Specialist • Corporative Communication • Development of Systems and Processes  • Information and Communication Technologies • Content Author and Producer • Coaching and Psychotherapy
 
-## Professional experience
+## Recent Projects
 
 `2017-`
 __apparatum.xyz__
-- Software development, digital marketing, IT consultancy.   
+- Mechanisms, Behaviors, Functions and Concepts • UX Design • Digital Marketing & Content
 
-`2016-`
-__Universidad Innova__
-- Consultant and adviser in IT and digital marketing.
+`2016-19`
+__innova.edu.mx & enlinea.innova.edu.mx__
+- Website and LMS for Universidad Innova
 
-`2013-`
-__HN Consultores Educativos__
-- Consultant, adviser and researcher in IT for Higher Education.
+`2019`
+__modosdeoir.inba.gob.mx__
+- Digital repository to conduct research on sound art practices in Mexico.
 
+
+## Occupation
 `2015-17`
 __Nyx, Software y Tecnología__
 - Project Manager; Operation’s Manager
@@ -46,13 +48,19 @@ __Nyx, Software y Tecnología__
 __Sistema Público de Radiodifusión del Estado Mexicano__
 - TV Audiences Consultant
 
-`2003-2012`
+`2013-`
+__HN Consultores Educativos__
+- Consultant, adviser and researcher in IT for Higher Education.
+
+`2006-12`
 __TV Azteca - Proyecto 40__
 - Audience Manager; Director of Programming and Audience
 
-`2001-04`
+`2003-06`
 __Audience Research and Measurement__
-Training  Manager; Chief process Officer
+Training  Manager; Chief Process Officer
+
+
 
 ## Education
 
@@ -90,6 +98,14 @@ __medium.com/@adolforismos__
 `2015-`
 __Micromeditaciones (in Spanish)__
 - Newsletter, reflexions, stories, to change your reality
+
+`2001-`
+__adolforismos.com (in Spanish)__
+- Personal blog about media, audience research, philosophy, art, culture, science and technology
+
+`2002-04`
+__Revista Encuesta (in Spanish)__
+- Rating and audiences column
 
 ### Books
 
