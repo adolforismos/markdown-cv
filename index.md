@@ -7,17 +7,17 @@ Informatics Engineer, Psychotherapist, Writer.
 
 <div id="webaddress">
 <a href="adolforamirez@gmail.com">adolforamirez@gmail.com</a>
-| <a href="https://adolforismos.com">Website</a>
+| <a href="https://adolforismos.com">adolforismos.com</a>
 </div>
 
 
 ## Currently
 
-Design, development, and execution of plans and formation of teams from zero to one in research and operational areas. • Broad knowledge of information and communications technologies. • Passion for research and study of human behavior in the broad sense of the term, based on facts and data.
+Writing, UX Design, Development, Information and Communications Technologies, Research.
 
 ### Specialized in
 
-Research and measurement of audiences and costumers oriented to decision making. • Intelligence and creativity applied to the optimization of methods and processes as well as the design of new ones.
+Writing, Research, Audiences, Users, Media, Human Behavior, Psychology.
 
 
 ### Areas of expertise
@@ -27,7 +27,7 @@ Executive and Operative • Media and Audience Specialist • Corporative Commun
 ## Professional experience
 
 `2017-`
-__apparatum.wyz__
+__apparatum.xyz__
 - Software development, digital marketing, IT consultancy.   
 
 `2016-`
@@ -84,27 +84,27 @@ __UX Collective__
 - UX Design, UX Writing
 
 `2018-`
-__medium.com__ 
-- medium.com/@adolforismos
+__medium.com/@adolforismos__ 
+- Top writer in Design, published on The Writing Cooperative, The Ascent, Age of Awareness, The Startup
 
 `2015-`
-__Micromeditaciones__
+__Micromeditaciones (in Spanish)__
 - Newsletter, reflexions, stories, to change your reality
 
 ### Books
 
 `2018`
-__Cómo cambiar tu realidad__
+__Cómo cambiar tu realidad (in Spanish)__
 - Notes about meditation, psychotherapy, Buddhism
 
 `2012`
-__La Carta Dialéctica__
+__La Carta Dialéctica (in Spanish)__
 - Essays and Short Stories 
 
 
 ### Podcast
 `2012-`
-__meditacionpsicoterapeutica.com__
+__meditacionpsicoterapeutica.com (in Spanish)__
 - Podcast and articles about psychotherapy, neuroscience, mindfulness, and psychology
 
 
