@@ -26,31 +26,31 @@ Executive and Operative • Media and Audience Specialist • Corporative Commun
 
 ## Professional experience
 
-'2017-`
+`2017-`
 __apparatum.wyz__
 - Software development, digital marketing, IT consultancy.   
 
-'2016-`
+`2016-`
 __Universidad Innova__
 - Consultant and adviser in IT and digital marketing.
 
-'2013-`
+`2013-`
 __HN Consultores Educativos__
 - Consultant, adviser and researcher in IT for Higher Education.
 
-'2015-17`
+`2015-17`
 __Nyx, Software y Tecnología__
 - Project Manager; Operation’s Manager
 
-'2014`
+`2014`
 __Sistema Público de Radiodifusión del Estado Mexicano__
 - TV Audiences Consultant
 
-'2003-2012`
+`2003-2012`
 __TV Azteca - Proyecto 40__
 - Audience Manager; Director of Programming and Audience
 
-'2001-04`
+`2001-04`
 __Audience Research and Measurement__
 Training  Manager; Chief process Officer
 
