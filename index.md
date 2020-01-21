@@ -22,7 +22,7 @@ Writing, Research, Audiences, Users, Media, Human Behavior, Psychology.
 
 ### Areas of expertise
 
-Executive and Operative • Media and Audience Specialist • Corporative Communication • Development of Systems and Processes  • Information and Communication Technologies • Content Author and Producer • Coaching and Psychotherapy
+Problem Solving • Planning, Designing, Developing • Executing and Operating • Fast Learning • Scientific Approaching • Creativity Thinking • Teaching adn Tranning
 
 ## Recent Projects
 
