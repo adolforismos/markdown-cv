@@ -124,8 +124,9 @@ __meditacionpsicoterapeutica.com (in Spanish)__
 - Podcast and articles about psychotherapy, neuroscience, mindfulness, and psychology
 
 
-<!-- ### Footer
-
-Last updated: January 2020 -->
+<!-- ### Footer -->
+<div id="webaddress">
+Last updated: January 2020
+</div>
 
 
