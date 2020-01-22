@@ -1,11 +1,12 @@
 ---
 layout: cv
 title: Adolfo Ramírez Corona's CV
+published: false
 
 ---
 # Adolfo Ramírez Corona
 
-Informatics Engineer, Psychotherapist, Writer.
+Writer, Informatics Engineer, Psychotherapist, Philosopher
 
 <div id="webaddress">
 <a href="adolforamirez@gmail.com">adolforamirez@gmail.com</a>
@@ -85,7 +86,6 @@ Training  Manager; Chief Process Officer
 * Four Semesters in  Bachelor in Philosophy
 
 ## Publications and media
-
 
 ### Web
 
