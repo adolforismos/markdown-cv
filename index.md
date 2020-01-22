@@ -1,6 +1,8 @@
 ---
 layout: cv
 title: Adolfo Ramírez Corona's CV
+published: false
+
 ---
 # Adolfo Ramírez Corona
 Informatics Engineer, Psychotherapist, Writer.
@@ -124,8 +126,7 @@ __meditacionpsicoterapeutica.com (in Spanish)__
 - Podcast and articles about psychotherapy, neuroscience, mindfulness, and psychology
 
 
-<!-- ### Footer
-
-Last updated: January 2020 -->
-
-
+<!-- ### Footer -->
+<div id="webaddress">
+Last updated: January 2020
+</div>
