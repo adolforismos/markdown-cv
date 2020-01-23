@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Adolfo Ramírez Corona's CV
+published: false
 
 ---
 # Adolfo Ramírez Corona
@@ -56,7 +57,7 @@ Problem Solving • Planning, Designing, Developing • Executing and Operating 
 `2013-`
 **HN Consultores Educativos**
 
-* Consultant, advisor and researcher in IT for Higher Education.
+* Consultant, advisor, and researcher in IT for Higher Education.
 
 `2006-12`
 **TV Azteca - Proyecto 40**
