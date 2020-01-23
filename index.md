@@ -1,7 +1,6 @@
 ---
 layout: cv
 title: Adolfo Ramírez Corona's CV
-published: false
 
 ---
 # Adolfo Ramírez Corona
