@@ -14,11 +14,11 @@ Writer, Informatics Engineer, Psychotherapist, Philosopher
 
 ## Currently
 
-Content Writing, UX Design, Development, Information and Communications Technologies, Research.
+Content Writing • UX Design • Development • Information and Communications Technologies • Research
 
 ### Specialized in
 
-Writing, Research, Audiences, Users, Media, Human Behavior, Psychology.
+Writing • Research • Audience • Users • Media • Human Behavior • Psychology
 
 ### Areas of expertise
 
