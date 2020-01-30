@@ -14,7 +14,7 @@ Writer, Informatics Engineer, Psychotherapist, Philosopher
 
 ## Currently
 
-Writing, UX Design, Development, Information and Communications Technologies, Research.
+Content Writing, UX Design, Development, Information and Communications Technologies, Research.
 
 ### Specialized in
 
@@ -22,7 +22,7 @@ Writing, Research, Audiences, Users, Media, Human Behavior, Psychology.
 
 ### Areas of expertise
 
-Problem Solving • Planning, Designing, Developing • Executing and Operating • Fast Learning • Scientific Approaching • Creativity Thinking • Teaching and Training
+Problem Solving • Planning, Designing, Developing • Goal Orientation • Fast Learning • Scientific Thinking • Creative Thinking • Traning and Teaching
 
 ## Recent Projects
 
@@ -36,51 +36,45 @@ Problem Solving • Planning, Designing, Developing • Executing and Operating 
 
 * Website and LMS for Universidad Innova
 
-`2019`
-**modosdeoir.inba.gob.mx**
+`2019` **modosdeoir.inba.gob.mx**
 
-* Digital repository to research on sound art practices in Mexico.
+* Digital repository for research on sound art practices in Mexico.
 
 ## Occupation
 
-`2015-17`
-**Nyx, Software y Tecnología**
+`2017-19` **Universidad Innova**
+
+* Communications and Marketing Consultant
+
+`2015-17` **Nyx, Software y Tecnología**
 
 * Project Manager; Operation’s Manager
 
-`2014`
-**Sistema Público de Radiodifusión del Estado Mexicano**
+`2014` **Sistema Público de Radiodifusión del Estado Mexicano**
 
 * TV Audiences Consultant
 
-`2013-`
-**HN Consultores Educativos**
+`2013-` **HN Consultores Educativos**
 
 * Consultant, advisor, and researcher in IT for Higher Education.
 
-`2006-12`
-**TV Azteca - Proyecto 40**
+`2006-12` **TV Azteca - Proyecto 40**
 
 * Audience Manager; Director of Programming and Audience
 
-`2003-06`
-**Audience Research and Measurement**
-Training  Manager; Chief Process Officer
+`2003-06` **Audience Research and Measurement** Training  Manager; Chief Process Officer
 
 ## Education
 
-`2010-12`
-**Centro Ericksoniano de México**
+`2010-12` **Centro Ericksoniano de México**
 
 * MC in Psychotherapy
 
-`2002-05`
-**Universidad Privada del Estado de México**
+`2002-05` **Universidad Privada del Estado de México**
 
-* Bachelor in Informatics Engineer
+* Bachelor of Informatics Engineer
 
-`1988-89`
-**Facultad de Filosofía y Letras de la UNAM**
+`1988-89` **Facultad de Filosofía y Letras de la UNAM**
 
 * Four Semesters in  Bachelor in Philosophy
 
@@ -88,48 +82,41 @@ Training  Manager; Chief Process Officer
 
 ### Web
 
-`2019-`
-**UX Collective**
+`2019-` **UX Collective**
 
 * UX Design, UX Writing
 
-`2018-`
-**medium.com/@adolforismos**
+`2018-` **medium.com/@adolforismos**
 
-* Top writer in Design, published on The Writing Cooperative, The Ascent, Age of Awareness, The Startup
+* Top writer in Design, published in The Writing Cooperative, The Ascent, Age of Awareness, The Startup
 
-`2015-`
-**Micromeditaciones (in Spanish)**
+`2015-` **Micromeditaciones (in Spanish)**
 
-* Newsletter, reflexions, stories, to change your reality
+* Newsletter with reflections and stories to change your reality
 
-`2001-`
-**adolforismos.com (in Spanish)**
+`2001-` **adolforismos.com (in Spanish)**
 
 * A personal blog about media, audience research, philosophy, art, culture, science, and technology
 
-`2002-04`
-**Revista Encuesta (in Spanish)**
+`2002-04` **Revista Encuesta (in Spanish)**
 
-* Rating and audiences column
+* Rating and audience column
 
 ### Books
 
 `2018` **Cómo Cambiar Tu Realidad (in Spanish)**
 
-* Notes about meditation, psychotherapy, Buddhism
+* Notes on meditation, psychotherapy, Buddhism
 
-`2012`
-**La Carta Dialéctica (in Spanish)**
+`2012` **La Carta Dialéctica (in Spanish)**
 
 * Essays and Short Stories
 
 ### Podcast
 
-`2012-`
-**meditacionpsicoterapeutica.com (in Spanish)**
+`2012-` **meditacionpsicoterapeutica.com (in Spanish)**
 
-* Podcast and articles about psychotherapy, neuroscience, mindfulness, and psychology
+* Podcasts and articles about psychotherapy, neuroscience, mindfulness, and psychology
 
 <!-- ### Footer -->
 <div id="webaddress">
