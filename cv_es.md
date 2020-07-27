@@ -5,7 +5,7 @@ title: CV de Adolfo Ramírez Corona
 ---
 # Adolfo Ramírez Corona
 
-Escritor, Licenciado en Ingeniería Informática, Psicoterapeuta, Filósofo
+Autor, Ingeniería en Informática, Psicoterapia, Filosofía
 
 <div id="webaddress">
 <a href="adolforamirez@gmail.com">adolforamirez@gmail.com</a>
@@ -18,18 +18,18 @@ Escritor de Contenidos • Diseño UX • Desarrollo • Tecnologías de informa
 
 ### Especializado en
 
-Escritura • Investigación • Audiencias • Usuarios • Medios • Conducta Humana • Psicología
+Escritura • Investigación • Audiencias • Usuarios • Medios • Comportamiento Humano • Psicología
 
 ### Áreas de Experiencia
 
-Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a Resultados • Rápido Aprendizaje • Pensamiento Científico • • Pensamiento Creativo • Capacitación y Enseñanza
+Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a Resultados • Rápido Aprendizaje • Pensamiento Científico • Pensamiento Creativo • Capacitación y Enseñanza
 
 ## Proyectos Recientes
 
 `2017-`
 **apparatum.xyz**
 
-* Mechanisms, Behaviors, Functions, and Concepts • UX Design • Digital Marketing & Content
+* Consultoría en Diseño de Experiencia de Usuarios • Marketing Digital & Contenido
 
 `2016-19`
 **innova.edu.mx & enlinea.innova.edu.mx**
@@ -38,88 +38,96 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 `2019` **modosdeoir.inba.gob.mx**
 
-* Repositorio digital para investigación sobre prácticas sonoras en México
+* Repositorio y plataforma digital para investigación y publicación sobre prácticas sonoras en México
 
 ## Ocupación
 
 `2017-19` **Universidad Innova**
 
-* Communications and Marketing Consultant
+* Consultor en Comunicación y Marketing
 
 `2015-17` **Nyx, Software y Tecnología**
 
-* Project Manager; Operation’s Manager
+* Administrador de Proyectos y Operaciones
 
 `2014` **Sistema Público de Radiodifusión del Estado Mexicano**
 
-* TV Audiences Consultant
+* Consultor de Audiencias Televisivas
 
 `2013-` **HN Consultores Educativos**
 
-* Consultant, advisor, and researcher in IT for Higher Education.
+* Consultor, consejero e investigador en TICs para educación superior
 
-`2006-12` **TV Azteca - Proyecto 40**
+`2006-12` **TV Azteca - ADN 40 (antes Proyecto 40)**
 
-* Audience Manager; Director of Programming and Audience
+* Gerente de audiencias; Director de Programación y Audiencia
 
-`2003-06` **Audience Research and Measurement** Training  Manager; Chief Process Officer
+`2003-06` **Audience Research and Measurement** 
 
-## Education
+Gerente de capacitación; Director de Procesos
+
+## Educación
 
 `2010-12` **Centro Ericksoniano de México**
 
-* MC in Psychotherapy
+* Maestría en Psicoterapia Ericksoniana
 
 `2002-05` **Universidad Privada del Estado de México**
 
-* Bachelor of Informatics Engineer
+* Licenciatura en Ingeniería en Informática
 
 `1988-89` **Facultad de Filosofía y Letras de la UNAM**
 
-* Four Semesters in  Bachelor in Philosophy
+* Cuatro semestres en Licenciatura en Filosofía
 
-## Publications and media
+## Publicaciones y medios
 
 ### Web
 
-`2019-` **UX Collective**
+`2020-` **Concepts Against Reality (en inglés)**
+
+* Philosophy, Psychology, Technology
+
+`2019-` **UX Collective (en inglés)**
 
 * UX Design, UX Writing
 
-`2018-` **medium.com/@adolforismos**
+`2018-` **Medium (en inglés)**
 
-* Top writer in Design, published in The Writing Cooperative, The Ascent, Age of Awareness, The Startup
+* Top writer in Design, published in The Writing Cooperative, The Ascent, Age of Awareness, The Startup, Towards Data Science
 
-`2015-` **Micromeditaciones (in Spanish)**
+`2015-` **Micromeditaciones**
 
-* Newsletter with reflections and stories to change your reality
+* Lista de correo con reflexiones e historias para cambiar tu realidad
 
-`2001-` **adolforismos.com (in Spanish)**
+`2001-` **adolforismos.com**
 
-* A personal blog about media, audience research, philosophy, art, culture, science, and technology
+* Blog personal aobre medios, investigación de audiencia, filosogía, arte, cultura, ciencia y tecnología
 
-`2002-04` **Revista Encuesta (in Spanish)**
+`2002-04` **Revista Encuesta**
 
-* Rating and audience column
+* Columna _Dios rating_
 
-### Books
+### Libros
 
-`2018` **Cómo Cambiar Tu Realidad (in Spanish)**
+`2020`**We are not Shakespeare in quarantine (en inglés)**
 
-* Notes on meditation, psychotherapy, Buddhism
+`2018` **Cómo Cambiar Tu Realidad**
 
-`2012` **La Carta Dialéctica (in Spanish)**
+* Ensayos sobre meditación, psicoterapia y budismo
 
-* Essays and Short Stories
+`2012` **La Carta Dialéctica**
+
+* Ensayos y cuentos
 
 ### Podcast
 
-`2012-` **meditacionpsicoterapeutica.com (in Spanish)**
+`2012-` **Meditación Psicoterapéutica**
 
-* Podcasts and articles about psychotherapy, neuroscience, mindfulness, and psychology
+* Podcast sobre psicotreapia, neurociancia, meditación y psicología
 
 <!-- ### Footer -->
 <div id="webaddress">
-Last updated: January 2020
+Última actualización: Julio 2020
 
 </div>
