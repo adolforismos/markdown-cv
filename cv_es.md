@@ -26,7 +26,7 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 ## Proyectos Recientes
 
-`2017 a la fecha`
+`2017→`
 
 **apparatum.xyz**
 
@@ -43,7 +43,7 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 ## Ocupación
 
-`2013 a la fecha` **HN Consultores Educativos**
+`2013→` **HN Consultores Educativos**
 
 * Consultor, consejero e investigador en TICs para educación superior
 
@@ -89,19 +89,19 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 * Philosophy, Psychology, Technology
 
-`2019 a la fecha` **UX Collective (en inglés)**
+`2019→` **UX Collective (en inglés)**
 
 * UX Design, UX Writing
 
-`2018 a la fecha` **Medium (en inglés)**
+`2018→` **Medium (en inglés)**
 
 * "Top writer" en Diseño, colaborador en _The Writing Cooperative, The Ascent, Age of Awareness, The Startup, Towards Data Science_
 
-`2015 a la fecha` **Micromeditaciones**
+`2015→` **Micromeditaciones**
 
 * Lista de correo con reflexiones e historias para cambiar tu realidad
 
-`2001 a la fecha` **adolforismos.com**
+`2001→` **adolforismos.com**
 
 * Blog personal aobre medios, investigación de audiencia, filosogía, arte, cultura, ciencia y tecnología
 
