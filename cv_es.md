@@ -14,7 +14,7 @@ Autor, Ingeniería en Informática, Psicoterapia, Filosofía
 
 ## Actualmente
 
-Escritor de Contenidos • Diseño UX • Desarrollo • Tecnologías de información y Comunicación
+Escritor de Contenidos • Diseño UX • Desarrollo • Tecnologías de Información y Comunicación
 
 ### Especializado en
 
@@ -26,7 +26,8 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 ## Proyectos Recientes
 
-`2017-`
+`2017 a la fecha`
+
 **apparatum.xyz**
 
 * Consultoría en Diseño de Experiencia de Usuarios • Marketing Digital & Contenido
@@ -42,6 +43,10 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 ## Ocupación
 
+`2013 a la fecha` **HN Consultores Educativos**
+
+* Consultor, consejero e investigador en TICs para educación superior
+
 `2017-19` **Universidad Innova**
 
 * Consultor en Comunicación y Marketing
@@ -54,17 +59,13 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 * Consultor de Audiencias Televisivas
 
-`2013-` **HN Consultores Educativos**
-
-* Consultor, consejero e investigador en TICs para educación superior
-
 `2006-12` **TV Azteca - ADN 40 (antes Proyecto 40)**
 
 * Gerente de audiencias; Director de Programación y Audiencia
 
 `2003-06` **Audience Research and Measurement** 
 
-Gerente de capacitación; Director de Procesos
+* Gerente de capacitación; Director de Procesos
 
 ## Educación
 
@@ -84,23 +85,23 @@ Gerente de capacitación; Director de Procesos
 
 ### Web
 
-`2020-` **Concepts Against Reality (en inglés)**
+`2020` **Concepts Against Reality (en inglés)**
 
 * Philosophy, Psychology, Technology
 
-`2019-` **UX Collective (en inglés)**
+`2019 a la fecha` **UX Collective (en inglés)**
 
 * UX Design, UX Writing
 
-`2018-` **Medium (en inglés)**
+`2018 a la fecha` **Medium (en inglés)**
 
-* Top writer in Design, published in The Writing Cooperative, The Ascent, Age of Awareness, The Startup, Towards Data Science
+* "Top writer" en Diseño, colaborador en _The Writing Cooperative, The Ascent, Age of Awareness, The Startup, Towards Data Science_
 
-`2015-` **Micromeditaciones**
+`2015 a la fecha` **Micromeditaciones**
 
 * Lista de correo con reflexiones e historias para cambiar tu realidad
 
-`2001-` **adolforismos.com**
+`2001 a la fecha` **adolforismos.com**
 
 * Blog personal aobre medios, investigación de audiencia, filosogía, arte, cultura, ciencia y tecnología
 
@@ -110,7 +111,9 @@ Gerente de capacitación; Director de Procesos
 
 ### Libros
 
-`2020`**We are not Shakespeare in quarantine (en inglés)**
+`2020`**We Are not Shakespeare in Quarantine (en inglés)**
+
+* Ideas, practical recomendations, and reflections about being in lockdown
 
 `2018` **Cómo Cambiar Tu Realidad**
 
@@ -122,7 +125,7 @@ Gerente de capacitación; Director de Procesos
 
 ### Podcast
 
-`2012-` **Meditación Psicoterapéutica**
+`2012-2019` **Meditación Psicoterapéutica**
 
 * Podcast sobre psicotreapia, neurociancia, meditación y psicología
 
