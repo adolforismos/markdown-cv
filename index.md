@@ -62,7 +62,9 @@ Problem Solving • Planning, Designing, Developing • Goal Orientation • Fas
 
 * Audience Manager; Director of Programming and Audience
 
-`2003-06` **Audience Research and Measurement** Training  Manager; Chief Process Officer
+`2003-06` **Audience Research and Measurement** 
+
+* Training  Manager; Chief Process Officer
 
 ## Education
 
