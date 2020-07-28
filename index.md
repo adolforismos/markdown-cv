@@ -32,13 +32,13 @@ Problem Solving • Planning, Designing, Developing • Goal Orientation • Fas
 * Mechanisms, Behaviors, Functions, and Concepts • UX Design • Digital Marketing & Content
 
 `2016-19`
-**innova.edu.mx & enlinea.innova.edu.mx**
+**innova.edu.mx**
 
 * Website and LMS for Universidad Innova
 
 `2019` **modosdeoir.inba.gob.mx**
 
-* Digital repository for Ex Teresa Arte Actual y Laboratorio Arte Alameda
+* Digital repository for _Ex Teresa Arte Actual_ and _Laboratorio Arte Alameda_
 
 ## Occupation
 
@@ -126,6 +126,6 @@ Problem Solving • Planning, Designing, Developing • Goal Orientation • Fas
 
 <!-- ### Footer -->
 <div id="webaddress">
-Last updated: January 2020
+Last updated: July 2020
 
 </div>
