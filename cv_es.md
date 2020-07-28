@@ -22,7 +22,7 @@ Escritura • Investigación • Audiencias • Usuarios • Medios • Comporta
 
 ### Áreas de Experiencia
 
-Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a Resultados • Rápido Aprendizaje • Pensamiento Científico • Pensamiento Creativo • Capacitación y Enseñanza
+Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a Resultados • Pensamiento Científico y Creativo • Capacitación y Enseñanza
 
 ## Proyectos Recientes
 
@@ -33,6 +33,7 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 * Consultoría en Diseño de Experiencia de Usuarios • Marketing Digital & Contenido
 
 `2016-19`
+
 **innova.edu.mx & enlinea.innova.edu.mx**
 
 * Website y plataforma educativa para Universidad Innova
@@ -111,23 +112,13 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 ### Libros
 
-`2020`**We Are not Shakespeare in Quarantine (en inglés)**
-
-* Ideas, practical recomendations, and reflections about being in lockdown
-
-`2018` **Cómo Cambiar Tu Realidad**
-
-* Ensayos sobre meditación, psicoterapia y budismo
-
-`2012` **La Carta Dialéctica**
-
-* Ensayos y cuentos
+`2020`**We Are not Shakespeare in Quarantine (en inglés)**: Ideas, practical recomendations, and reflections about being in lockdown
+`2018` **Cómo Cambiar Tu Realidad**: Ensayos sobre meditación, psicoterapia y budismo
+`2012` **La Carta Dialéctica**: Ensayos y cuentos
 
 ### Podcast
 
-`2012-2019` **Meditación Psicoterapéutica**
-
-* Podcast sobre psicotreapia, neurociancia, meditación y psicología
+`2012-2019` **Meditación Psicoterapéutica**: sicotreapia, neurociencia, meditación y psicología
 
 <!-- ### Footer -->
 <div id="webaddress">
