@@ -86,39 +86,27 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 ### Web
 
-`2020` **Concepts Against Reality (en inglés)**
+`2020` **Concepts Against Reality (en inglés)**: Philosophy, Psychology, Technology
 
-* Philosophy, Psychology, Technology
+`2018→` **Medium (en inglés)**: "Top writer" en Diseño, colaborador en _UX Collective, The Writing Cooperative, The Ascent, Age of Awareness, The Startup, Towards Data Science_
 
-`2019→` **UX Collective (en inglés)**
+`2015→` **Micromeditaciones**: Lista de correo con reflexiones e historias para cambiar tu realidad
 
-* UX Design, UX Writing
+`2001→` **adolforismos.com**: Blog sobre medios, investigación, audiencia, filosofía, arte, cultura, ciencia y tecnología
 
-`2018→` **Medium (en inglés)**
-
-* "Top writer" en Diseño, colaborador en _The Writing Cooperative, The Ascent, Age of Awareness, The Startup, Towards Data Science_
-
-`2015→` **Micromeditaciones**
-
-* Lista de correo con reflexiones e historias para cambiar tu realidad
-
-`2001→` **adolforismos.com**
-
-* Blog personal aobre medios, investigación de audiencia, filosogía, arte, cultura, ciencia y tecnología
-
-`2002-04` **Revista Encuesta**
-
-* Columna _Dios rating_
+`2002-04` **Revista Encuesta**: Columna _Dios rating_
 
 ### Libros
 
 `2020`**We Are not Shakespeare in Quarantine (en inglés)**: Ideas, practical recomendations, and reflections about being in lockdown
+
 `2018` **Cómo Cambiar Tu Realidad**: Ensayos sobre meditación, psicoterapia y budismo
+
 `2012` **La Carta Dialéctica**: Ensayos y cuentos
 
 ### Podcast
 
-`2012-2019` **Meditación Psicoterapéutica**: sicotreapia, neurociencia, meditación y psicología
+`2012-2019` **Meditación Psicoterapéutica**: Psicotreapia, neurociencia, meditación y psicología
 
 <!-- ### Footer -->
 <div id="webaddress">
