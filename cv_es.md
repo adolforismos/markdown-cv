@@ -40,7 +40,7 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 `2019` **modosdeoir.inba.gob.mx**
 
-* Repositorio y plataforma digital para investigación y publicación sobre prácticas sonoras en México
+* Repositorio y plataforma digital para _Ex Teresa Arte Actual_ y _Laboratorio Arte Alameda_
 
 ## Ocupación
 
@@ -106,7 +106,7 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 ### Podcast
 
-`2012-19` **Meditación Psicoterapéutica**: Psicotreapia, neurociencia, meditación y psicología
+`2012-19` **Meditación Psicoterapéutica**: Psicoterapia, neurociencia, meditación y psicología
 
 <!-- ### Footer -->
 <div id="webaddress">
