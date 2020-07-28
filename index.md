@@ -5,11 +5,11 @@ title: Adolfo Ramírez Corona's CV
 ---
 # Adolfo Ramírez Corona
 
-Writer, Informatics Engineer, Psychotherapist, Philosopher
+Author, Informatics Engineer, Psychotherapist, Philosopher
 
 <div id="webaddress">
 <a href="adolforamirez@gmail.com">adolforamirez@gmail.com</a>
-| <a href="https://adolforismos.com">adolforismos.com</a>
+| <a href="https://notes.adolforismos.com">notes.adolforismos.com</a>
 </div>
 
 ## Currently
@@ -38,7 +38,7 @@ Problem Solving • Planning, Designing, Developing • Goal Orientation • Fas
 
 `2019` **modosdeoir.inba.gob.mx**
 
-* Digital repository for research on sound art practices in Mexico.
+* Digital repository for Ex Teresa Arte Actual y Laboratorio Arte Alameda
 
 ## Occupation
 
@@ -62,7 +62,9 @@ Problem Solving • Planning, Designing, Developing • Goal Orientation • Fas
 
 * Audience Manager; Director of Programming and Audience
 
-`2003-06` **Audience Research and Measurement** Training  Manager; Chief Process Officer
+`2003-06` **Audience Research and Measurement** 
+
+* Training  Manager; Chief Process Officer
 
 ## Education
 
@@ -88,7 +90,7 @@ Problem Solving • Planning, Designing, Developing • Goal Orientation • Fas
 
 `2018-` **medium.com/@adolforismos**
 
-* Top writer in Design, published in The Writing Cooperative, The Ascent, Age of Awareness, The Startup
+* Top writer in Design, published in _Concepts Against Reality, The Writing Cooperative, The Ascent, Age of Awareness, The Startup, Towards Data Science_
 
 `2015-` **Micromeditaciones (in Spanish)**
 
@@ -103,6 +105,10 @@ Problem Solving • Planning, Designing, Developing • Goal Orientation • Fas
 * Rating and audience column
 
 ### Books
+
+`2020` **We Are Not Shakespeare in Quarantine**
+
+* Ideas, practical recomendations, and reflections about being in lockdown
 
 `2018` **Cómo Cambiar Tu Realidad (in Spanish)**
 
