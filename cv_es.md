@@ -106,7 +106,7 @@ Solución de Problemas • Planeación, Diseño y Desarrollo • Orientación a 
 
 ### Podcast
 
-`2012-2019` **Meditación Psicoterapéutica**: Psicotreapia, neurociencia, meditación y psicología
+`2012-19` **Meditación Psicoterapéutica**: Psicotreapia, neurociencia, meditación y psicología
 
 <!-- ### Footer -->
 <div id="webaddress">
